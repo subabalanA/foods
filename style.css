@@ -1,0 +1,47 @@
+
+.favourite-places-bg-container {
+  background-image: url("https://img.freepik.com/free-photo/top-view-cooked-mushrooms-with-dough-pasta-dark-table-food-meal-dinner-dish_140725-79164.jpg?w=996&t=st=1707320685~exp=1707321285~hmac=72a0bc4550f1d0063ab30d8c299b251509c33ff94e1cfdc3d41802161cd3e1f3");
+  height: 150vh;
+  background-size: cover;
+}
+
+.favourite-places-heading {
+  color: pink;
+  font-family: "Roboto";
+  font-size: 50px;
+  font-weight: bolder;
+  padding: 50px;
+}
+
+.favourite-place-card-container {
+  background-color:transparent;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 15px;
+}
+
+.favourite-place-card-heading {
+  color:yellow;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.favourite-place-card-description {
+  color:white;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+
+.favourite-place-card-image {
+  width: 80px;
+  height: 100px;
+}
+
+
+
+      
+
+            
+
+              
